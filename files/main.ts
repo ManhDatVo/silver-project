@@ -1,0 +1,1 @@
+console.log("File này chỉ có trên main")
